@@ -1,4 +1,4 @@
-# README: this version of the main working script will accept .csv files instead of .xlsx files.
+# this version of the main working script will accept .csv files instead of .xlsx files.
 # this version will also accept "Inconclusive" results (previous versions did not)
 
 import csv
