@@ -1,0 +1,206 @@
+﻿Advanta Dx SARS-CoV-2 EUA Interpretive Software Output (Rev A),,,,,
+IFC Barcode,sample number,,,,
+Biomark Scan Date and Time,1/14/2021 14:11,,,,
+Biomark System ID,BIOMARKHD508,,,,
+Real-Time PCR Analysis Software Version,4.7.1,,,,
+Advanta Dx SARS-CoV-2 EUA Interpretive Software Version,1.0.1,,,,
+Maximum Ct for Detected,32,,,,
+Number of Positives,2,,,,
+Quality Threshold,0.65,,,,
+Baseline Correction Method,Linear,,,,
+Ct Threshold Method,User Data (Global),,,,
+,,,,,
+Samples,,,,,
+Sample Name,IFC Inlet Location,N1,N2,RNase P,Interpretation
+NTC1,S001,-,-,+,Negative
+NEG ,S002,-,-,+,Negative
+POS ,S003,+,+,+,Positive
+blank,S006,-,-,+,Negative
+blank,S005,-,-,+,Negative
+NEG ,S004,-,-,+,Negative
+blank,S013,-,-,+,Negative
+blank,S014,-,-,+,Negative
+blank,S015,-,-,+,Negative
+blank,S018,-,-,+,Negative
+blank,S017,-,-,+,Negative
+blank,S016,-,-,+,Negative
+Negative Control1,S025,-,-,+,Negative
+HIGH POS,S026,+,+,+,Positive
+HIGH POS,S027,+,+,+,Positive
+blank,S030,-,-,+,Negative
+blank,S029,-,-,+,Negative
+NEG ,S028,+,+,+,Positive
+blank,S037,-,-,+,Negative
+blank,S038,-,-,+,Negative
+blank,S039,-,-,+,Negative
+blank,S042,-,-,+,Negative
+blank,S041,-,-,-,No Template
+blank,S040,-,-,+,Negative
+Positive Control1,S049,+,+,+,Positive
+NEG ,S050,-,-,+,Negative
+POS ,S051,+,+,+,Positive
+blank,S054,-,-,+,Negative
+blank,S053,-,-,+,Negative
+NEG ,S052,-,-,+,Negative
+blank,S061,+,+,+,Positive
+blank,S062,-,-,-,No Template
+blank,S063,-,-,+,Negative
+blank,S066,-,-,-,No Template
+blank,S065,-,-,-,No Template
+blank,S064,-,-,+,Negative
+NEG ,S073,-,-,+,Negative
+NEG ,S074,-,-,+,Negative
+NEG ,S075,-,-,+,Negative
+blank,S078,-,-,+,Negative
+blank,S077,-,-,+,Negative
+NEG ,S076,-,-,+,Negative
+blank,S085,-,-,+,Negative
+blank,S086,-,-,+,Negative
+blank,S087,-,-,?,Inconclusive
+blank,S090,-,-,+,Negative
+blank,S089,-,-,-,No Template
+blank,S088,-,-,+,Negative
+NEG ,S100,-,-,+,Negative
+blank,S101,-,-,+,Negative
+blank,S102,-,-,+,Negative
+blank,S099,+,+,+,Positive
+blank,S098,-,-,+,Negative
+blank,S097,+,+,+,Positive
+blank,S112,-,-,+,Negative
+blank,S113,-,-,-,No Template
+blank,S114,-,-,-,No Template
+blank,S111,-,-,-,No Template
+blank,S110,-,-,+,Negative
+blank,S109,-,-,+,Negative
+blank,S124,-,-,+,Negative
+blank,S125,-,-,+,Negative
+blank,S126,-,-,+,Negative
+blank,S123,-,-,+,Negative
+blank,S122,-,-,+,Negative
+blank,S121,+,+,+,Positive
+blank,S136,-,-,+,Negative
+blank,S137,-,-,-,No Template
+blank,S138,-,-,-,No Template
+blank,S135,-,-,-,No Template
+blank,S134,-,-,-,No Template
+blank,S133,-,-,+,Negative
+blank,S148,+,-,+,Positive
+blank,S149,-,-,+,Negative
+blank,S150,-,-,+,Negative
+blank,S147,+,+,+,Positive
+blank,S146,-,-,+,Negative
+blank,S145,+,+,+,Positive
+blank,S160,-,-,+,Negative
+blank,S161,-,-,-,No Template
+blank,S162,-,-,-,No Template
+blank,S159,-,-,-,No Template
+blank,S158,-,-,+,Negative
+blank,S157,-,-,+,Negative
+blank,S172,-,-,+,Negative
+blank,S173,-,-,+,Negative
+blank,S174,-,-,+,Negative
+blank,S171,-,-,+,Negative
+blank,S170,-,-,+,Negative
+blank,S169,+,+,+,Positive
+blank,S184,-,-,+,Negative
+blank,S185,-,-,-,No Template
+blank,S186,-,-,+,Negative
+blank,S183,-,-,+,Negative
+blank,S182,-,-,?,Inconclusive
+blank,S181,-,-,+,Negative
+blank,S012,-,-,+,Negative
+blank,S011,-,-,+,Negative
+blank,S010,-,-,+,Negative
+blank,S007,-,-,-,No Template
+blank,S008,+,+,+,Positive
+blank,S009,+,+,+,Positive
+blank,S024,-,-,-,No Template
+blank,S023,-,-,+,Negative
+blank,S022,-,-,+,Negative
+blank,S019,-,-,+,Negative
+blank,S020,-,-,-,No Template
+blank,S021,-,-,+,Negative
+blank,S036,-,-,+,Negative
+blank,S035,-,-,+,Negative
+blank,S034,-,-,+,Negative
+blank,S031,+,+,+,Positive
+blank,S032,+,+,+,Positive
+blank,S033,+,+,+,Positive
+blank,S048,-,-,-,No Template
+blank,S047,-,-,-,No Template
+blank,S046,-,-,+,Negative
+blank,S043,-,-,+,Negative
+blank,S044,-,-,?,Inconclusive
+blank,S045,-,-,+,Negative
+blank,S060,-,-,+,Negative
+blank,S059,-,-,+,Negative
+blank,S058,-,-,+,Negative
+blank,S055,+,+,+,Positive
+blank,S056,-,-,+,Negative
+blank,S057,+,+,+,Positive
+blank,S072,-,-,+,Negative
+blank,S071,-,-,-,No Template
+blank,S070,-,-,+,Negative
+blank,S067,+,+,+,Positive
+blank,S068,-,-,+,Negative
+blank,S069,-,-,+,Negative
+blank,S084,-,-,+,Negative
+blank,S083,-,-,+,Negative
+blank,S082,-,-,+,Negative
+blank,S079,-,-,+,Negative
+blank,S080,-,-,+,Negative
+blank,S081,-,-,+,Negative
+blank,S096,-,-,+,Negative
+blank,S095,-,-,-,No Template
+blank,S094,-,-,+,Negative
+blank,S091,-,-,+,Negative
+blank,S092,-,-,+,Negative
+blank,S093,-,-,+,Negative
+blank,S105,+,+,+,Positive
+blank,S104,-,-,+,Negative
+blank,S103,+,+,+,Positive
+blank,S106,-,-,+,Negative
+blank,S107,-,-,+,Negative
+blank,S108,-,-,+,Negative
+blank,S117,-,-,+,Negative
+blank,S116,-,-,-,No Template
+blank,S115,-,-,+,Negative
+blank,S118,-,-,+,Negative
+blank,S119,-,-,-,No Template
+blank,S120,-,-,-,No Template
+blank,S129,-,-,+,Negative
+blank,S128,-,-,+,Negative
+blank,S127,+,+,+,Positive
+blank,S130,-,-,+,Negative
+blank,S131,-,-,+,Negative
+blank,S132,-,-,+,Negative
+blank,S141,-,-,+,Negative
+blank,S140,-,-,+,Negative
+blank,S139,-,-,+,Negative
+blank,S142,-,-,+,Negative
+blank,S143,-,-,-,No Template
+blank,S144,-,-,-,No Template
+blank,S153,+,+,+,Positive
+blank,S152,-,-,+,Negative
+blank,S151,+,+,+,Positive
+blank,S154,-,-,+,Negative
+blank,S155,-,-,+,Negative
+blank,S156,-,-,+,Negative
+blank,S165,-,-,-,No Template
+blank,S164,-,-,+,Negative
+blank,S163,-,-,+,Negative
+blank,S166,-,-,+,Negative
+blank,S167,-,-,-,No Template
+blank,S168,-,-,+,Negative
+blank,S177,-,-,+,Negative
+blank,S176,-,-,+,Negative
+blank,S175,+,+,+,Positive
+blank,S178,-,-,+,Negative
+blank,S179,-,-,+,Negative
+blank,S180,-,-,+,Negative
+blank,S189,-,-,-,No Template
+blank,S188,-,-,-,No Template
+blank,S187,-,-,+,Negative
+blank,S190,-,-,-,No Template
+blank,S191,-,-,-,No Template
+blank,S192,-,-,+,Negative
