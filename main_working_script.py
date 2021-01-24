@@ -4,7 +4,6 @@
 
 import csv
 import openpyxl
-import pandas as pd
 import datetime
 import sqlite3
 import os
